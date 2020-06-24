@@ -1,11 +1,11 @@
 import Nav from "../components/navigation";
-
-function HomePage() {
+function About() {
   return (
     <div>
       <Nav />
-      <h3>Welcome to Next.js!</h3>
+      <h3>Hakkımızda</h3>
     </div>
   );
 }
-export default HomePage;
+
+export default About;
