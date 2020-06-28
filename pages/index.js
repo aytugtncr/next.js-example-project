@@ -1,3 +1,5 @@
+export const config = { amp: true }
+
 function HomePage() {
     return <div>
       <h3>Welcome to Next.js!</h3>
